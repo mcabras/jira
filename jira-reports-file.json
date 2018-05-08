@@ -6,64 +6,64 @@
   "week1": {
     "monday": {
       "daily": {
-        "timeSpentJIRA": "1h",
-        "comment": "Daily and Sync"
+        "timeSpentJIRA": "15m",
+        "comment": "Daily"
       },
       "planning": {
         "timeSpentJIRA": "1h",
         "comment": "Planning"
       },
-      "testing": {
-        "timeSpentJIRA": "7h",
-        "comment": "Automated regression"
+      "dev": {
+        "timeSpentJIRA": "7h 45m",
+        "comment": "Creatives development and sync"
       }
     },
 
     "tuesday": {
       "daily": {
-        "timeSpentJIRA": "1h",
-        "comment": "Daily and Sync"
+        "timeSpentJIRA": "15m",
+        "comment": "Daily"
       },
-      "testing": {
-        "timeSpentJIRA": "8h",
-        "comment": "Automated regression and Jira tickets"
+      "dev": {
+        "timeSpentJIRA": "8h 45m",
+        "comment": "Creatives development and sync"
       }
     },
 
     "wednesday": {
       "daily": {
-        "timeSpentJIRA": "1h",
-        "comment": "Daily and Sync"
+        "timeSpentJIRA": "15m",
+        "comment": "Daily"
       },
-      "testing": {
-        "timeSpentJIRA": "8h",
-        "comment": "Automated regression and Jira tickets"
+      "dev": {
+        "timeSpentJIRA": "8h 45m",
+        "comment": "Creatives development and sync"
       }
     },
 
     "thursday": {
       "daily": {
-        "timeSpentJIRA": "1h",
-        "comment": "Daily and Sync"
+        "timeSpentJIRA": "15m",
+        "comment": "Daily"
       },
       "grooming": {
         "timeSpentJIRA": "1h",
         "comment": "Grooming"
       },
-      "testing": {
-        "timeSpentJIRA": "7h",
-        "comment": "Automated regression and Jira tickets"
+      "dev": {
+        "timeSpentJIRA": "8h 45m",
+        "comment": "Creatives development and sync"
       }
     },
 
     "friday": {
       "daily": {
-        "timeSpentJIRA": "1h",
-        "comment": "Daily and Sync"
+        "timeSpentJIRA": "15m",
+        "comment": "Daily"
       },
-      "testing": {
-        "timeSpentJIRA": "8h",
-        "comment": "Automated regression and Jira tickets"
+      "dev": {
+        "timeSpentJIRA": "8h 45m",
+        "comment": "Creatives development and sync"
       }
     }
   },
@@ -71,56 +71,56 @@
   "week2": {
     "monday": {
       "daily": {
-        "timeSpentJIRA": "1h",
-        "comment": "Daily and Sync"
+        "timeSpentJIRA": "15m",
+        "comment": "Daily"
       },
-      "testing": {
-        "timeSpentJIRA": "8h",
-        "comment": "Jira tickets and automated regression"
+      "dev": {
+        "timeSpentJIRA": "8h 45m",
+        "comment": "Creatives development and sync"
       }
     },
 
     "tuesday": {
       "daily": {
-        "timeSpentJIRA": "1h",
-        "comment": "Daily and Sync"
+        "timeSpentJIRA": "15m",
+        "comment": "Daily"
       },
-      "testing": {
-        "timeSpentJIRA": "8h",
-        "comment": "Jira tickets and automated regression"
+      "dev": {
+        "timeSpentJIRA": "8h 45m",
+        "comment": "Creatives development and sync"
       }
     },
 
     "wednesday": {
       "daily": {
-        "timeSpentJIRA": "1h",
-        "comment": "Daily and Sync"
+        "timeSpentJIRA": "15m",
+        "comment": "Daily"
       },
       "grooming": {
         "timeSpentJIRA": "1h",
         "comment": "Grooming"
       },
-      "testing": {
-        "timeSpentJIRA": "7h",
-        "comment": "Automated regression and Jira tickets"
+      "dev": {
+        "timeSpentJIRA": "8h 45m",
+        "comment": "Creatives development and sync"
       }
     },
 
     "thursday": {
       "daily": {
-        "timeSpentJIRA": "1h",
-        "comment": "Daily and Sync"
+        "timeSpentJIRA": "15m",
+        "comment": "Daily"
       },
-      "testing": {
-        "timeSpentJIRA": "8h",
-        "comment": "Jira tickets and automated regression"
+      "dev": {
+        "timeSpentJIRA": "8h 45m",
+        "comment": "Creatives development and sync"
       }
     },
 
     "friday": {
       "daily": {
-        "timeSpentJIRA": "1h",
-        "comment": "Daily and Sync",
+        "timeSpentJIRA": "15m",
+        "comment": "Daily",
         "startTime": "9h 30m"
       },
       "retro": {
@@ -131,9 +131,9 @@
         "timeSpentJIRA": "1h",
         "comment": "Sprint review"
       },
-      "testing": {
-        "timeSpentJIRA": "6h",
-        "comment": "Jira tickets and automated regression"
+      "dev": {
+        "timeSpentJIRA": "8h 45m",
+        "comment": "Creatives development and sync"
       }
     }
   }
