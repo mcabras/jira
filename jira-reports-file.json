@@ -8,17 +8,17 @@
       "planning": {
         "timeSpentJIRA": "1h",
         "comment": "Planning",
-        "startTime": "11h 30m"
+        "startTime": "12h 30m"
       },
       "grooming": {
         "timeSpentJIRA": "4h 30m",
         "comment": "Review sprint backlog",
-        "startTime": "7h"
+        "startTime": "8h"
       },
       "grooming": {
         "timeSpentJIRA": "3h 30m",
         "comment": "Review sprint tickets",
-        "startTime": "13h 30m"
+        "startTime": "14h 30m"
       }
     },
 
@@ -26,17 +26,17 @@
       "daily": {
         "timeSpentJIRA": "15m",
         "comment": "Daily",
-        "startTime": "11h 30m"
+        "startTime": "12h 30m"
       },
       "dev": {
         "timeSpentJIRA": "4h 30m",
         "comment": "Creatives development and sync",
-        "startTime": "7h"
+        "startTime": "8h"
       },
       "dev": {
         "timeSpentJIRA": "4h 15m",
         "comment": "Creatives development and sync",
-        "startTime": "12h 45m"
+        "startTime": "13h 45m"
       }
     },
 
@@ -125,20 +125,20 @@
     },
 
     "tuesday": {
-      "daily": {
-        "timeSpentJIRA": "15m",
-        "comment": "Daily",
-        "startTime": "11h 30m"
-      },
       "dev": {
         "timeSpentJIRA": "4h 30m",
         "comment": "Creatives development and sync",
-        "startTime": "7h"
+        "startTime": "8h"
+      },
+      "daily": {
+        "timeSpentJIRA": "15m",
+        "comment": "Daily",
+        "startTime": "12h 30m"
       },
       "dev": {
         "timeSpentJIRA": "4h 15m",
         "comment": "Creatives development and sync",
-        "startTime": "12h 45m"
+        "startTime": "13h 45m"
       }
     },
 
