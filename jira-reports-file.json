@@ -1,0 +1,140 @@
+{
+  "project": "Mediabrands AdOps - Mediabrands",
+
+  "firstDayToReportAt": "16/04/2018",
+
+  "week1": {
+    "monday": {
+      "daily": {
+        "timeSpentJIRA": "1h",
+        "comment": "Daily and Sync"
+      },
+      "planning": {
+        "timeSpentJIRA": "1h",
+        "comment": "Planning"
+      },
+      "testing": {
+        "timeSpentJIRA": "7h",
+        "comment": "Automated regression"
+      }
+    },
+
+    "tuesday": {
+      "daily": {
+        "timeSpentJIRA": "1h",
+        "comment": "Daily and Sync"
+      },
+      "testing": {
+        "timeSpentJIRA": "8h",
+        "comment": "Automated regression and Jira tickets"
+      }
+    },
+
+    "wednesday": {
+      "daily": {
+        "timeSpentJIRA": "1h",
+        "comment": "Daily and Sync"
+      },
+      "testing": {
+        "timeSpentJIRA": "8h",
+        "comment": "Automated regression and Jira tickets"
+      }
+    },
+
+    "thursday": {
+      "daily": {
+        "timeSpentJIRA": "1h",
+        "comment": "Daily and Sync"
+      },
+      "grooming": {
+        "timeSpentJIRA": "1h",
+        "comment": "Grooming"
+      },
+      "testing": {
+        "timeSpentJIRA": "7h",
+        "comment": "Automated regression and Jira tickets"
+      }
+    },
+
+    "friday": {
+      "daily": {
+        "timeSpentJIRA": "1h",
+        "comment": "Daily and Sync"
+      },
+      "testing": {
+        "timeSpentJIRA": "8h",
+        "comment": "Automated regression and Jira tickets"
+      }
+    }
+  },
+
+  "week2": {
+    "monday": {
+      "daily": {
+        "timeSpentJIRA": "1h",
+        "comment": "Daily and Sync"
+      },
+      "testing": {
+        "timeSpentJIRA": "8h",
+        "comment": "Jira tickets and automated regression"
+      }
+    },
+
+    "tuesday": {
+      "daily": {
+        "timeSpentJIRA": "1h",
+        "comment": "Daily and Sync"
+      },
+      "testing": {
+        "timeSpentJIRA": "8h",
+        "comment": "Jira tickets and automated regression"
+      }
+    },
+
+    "wednesday": {
+      "daily": {
+        "timeSpentJIRA": "1h",
+        "comment": "Daily and Sync"
+      },
+      "grooming": {
+        "timeSpentJIRA": "1h",
+        "comment": "Grooming"
+      },
+      "testing": {
+        "timeSpentJIRA": "7h",
+        "comment": "Automated regression and Jira tickets"
+      }
+    },
+
+    "thursday": {
+      "daily": {
+        "timeSpentJIRA": "1h",
+        "comment": "Daily and Sync"
+      },
+      "testing": {
+        "timeSpentJIRA": "8h",
+        "comment": "Jira tickets and automated regression"
+      }
+    },
+
+    "friday": {
+      "daily": {
+        "timeSpentJIRA": "1h",
+        "comment": "Daily and Sync",
+        "startTime": "9h 30m"
+      },
+      "retro": {
+        "timeSpentJIRA": "1h",
+        "comment": "Retro"
+      },
+      "sprint review": {
+        "timeSpentJIRA": "1h",
+        "comment": "Sprint review"
+      },
+      "testing": {
+        "timeSpentJIRA": "6h",
+        "comment": "Jira tickets and automated regression"
+      }
+    }
+  }
+}

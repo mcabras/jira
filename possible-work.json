@@ -1,0 +1,64 @@
+{
+  "daily": {
+    "comment": "",
+    "timeSpentJIRA": "",
+    "issue": "PTSR-14",
+    "project": "",
+    "startDate": "",
+    "tfstask": ""
+  },
+
+  "retro": {
+    "comment": "",
+    "timeSpentJIRA": "",
+    "issue": "PTSR-17",
+    "project": "",
+    "startDate": "",
+    "tfstask": ""
+  },
+
+  "sprint review": {
+    "comment": "",
+    "timeSpentJIRA": "",
+    "issue": "PTSR-15",
+    "project": "",
+    "startDate": "",
+    "tfstask": ""
+  },
+
+  "planning": {
+    "comment": "",
+    "timeSpentJIRA": "",
+    "issue": "PTSR-6",
+    "project": "",
+    "startDate": "",
+    "tfstask": ""
+  },
+
+  "grooming": {
+    "comment": "",
+    "timeSpentJIRA": "",
+    "issue": "PTSR-3",
+    "project": "",
+    "startDate": "",
+    "tfstask": ""
+  },
+
+  "testing": {
+    "comment": "",
+    "timeSpentJIRA": "",
+    "issue": "PTSR-5",
+    "project": "",
+    "startDate": "",
+    "tfstask": ""
+  },
+  
+  "dev": {
+    "comment": "",
+    "timeSpentJIRA": "",
+    "issue": "PTSR-4",
+    "project": "",
+    "startDate": "",
+    "tfstask": ""
+  }
+}

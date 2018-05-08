@@ -1,0 +1,112 @@
+{
+  "project": "Mediabrands AdOps - Mediabrands",
+
+  "firstDayToReportAt": "16/04/18",
+
+  "week1": {
+    "monday": {
+      "daily": {
+        "timeSpentJIRA": "1h",
+        "comment": "Daily and Sync",
+        "startTime": "9h 30m"
+      },
+      "planning": {
+        "timeSpentJIRA": "1h",
+        "comment": "Planning",
+        "startTime": "9h 30m"
+      },
+      "testing": {
+        "timeSpentJIRA": "7h 45m",
+        "comment": "Testing"
+      }
+    },
+
+    "tuesday": {
+      "daily": {
+        "timeSpentJIRA": "15m",
+        "comment": "Daily",
+        "startTime": "9h 30m"
+      },
+      "testing": {
+        "timeSpentJIRA": "7h 45m",
+        "comment": "Testing",
+        "startTime": "9h 30m"
+      }
+    },
+
+    "wednesday": {
+      "daily": {
+        "timeSpentJIRA": "15m",
+        "comment": "Daily",
+        "startTime": "9h 30m"
+      }
+    },
+
+    "thursday": {
+      "daily": {
+        "timeSpentJIRA": "15m",
+        "comment": "Daily",
+        "startTime": "9h 30m"
+      }
+    },
+
+    "friday": {
+      "daily": {
+        "timeSpentJIRA": "15m",
+        "comment": "Daily",
+        "startTime": "9h 30m"
+      }
+    }
+  },
+
+  "week2": {
+    "monday": {
+      "daily": {
+        "timeSpentJIRA": "1h",
+        "comment": "Daily and Sync",
+        "startTime": "9h 30m"
+      },
+      "testing": {
+        "timeSpentJIRA": "8h",
+        "comment": "Jira tickets and automated regression"
+      }
+    },
+
+    "tuesday": {
+      "daily": {
+        "timeSpentJIRA": "15m",
+        "comment": "Daily",
+        "startTime": "9h 30m"
+      },
+      "testing": {
+        "timeSpentJIRA": "7h 45m",
+        "comment": "Testing",
+        "startTime": "9h 30m"
+      }
+    },
+
+    "wednesday": {
+      "daily": {
+        "timeSpentJIRA": "15m",
+        "comment": "Daily",
+        "startTime": "9h 30m"
+      }
+    },
+
+    "thursday": {
+      "daily": {
+        "timeSpentJIRA": "15m",
+        "comment": "Daily",
+        "startTime": "9h 30m"
+      }
+    },
+
+    "friday": {
+      "daily": {
+        "timeSpentJIRA": "15m",
+        "comment": "Daily",
+        "startTime": "9h 30m"
+      }
+    }
+  }
+}
