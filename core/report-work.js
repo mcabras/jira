@@ -73,7 +73,7 @@ const getIssues = () => {
           possibleWork[issue].startDate = getTimeToReportAt(jiraIssue.startTime);
         }
         else {
-          possibleWork[issue].startDate = currentDate.setHours(8, 0);
+          possibleWork[issue].startDate = currentDate.setHours(13, 0);
         }
         possibleWork[issue].project = jiraToReport.project;
         issues.push(possibleWork[issue]);
