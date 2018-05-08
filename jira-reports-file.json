@@ -126,6 +126,19 @@
 
     "tuesday": {
       "dev": {
+        "timeSpentJIRA": "7h 45m",
+        "comment": "Creatives development and sync",
+        "startTime": "8h"
+      },
+      "daily": {
+        "timeSpentJIRA": "15m",
+        "comment": "Daily",
+        "startTime": "12h 30m"
+      }
+    },
+
+    "wednesday": {
+      "dev": {
         "timeSpentJIRA": "4h 30m",
         "comment": "Creatives development and sync",
         "startTime": "8h"
@@ -136,37 +149,19 @@
         "startTime": "12h 30m"
       },
       "dev": {
-        "timeSpentJIRA": "4h 15m",
+        "timeSpentJIRA": "1h 15m",
         "comment": "Creatives development and sync",
         "startTime": "13h 45m"
-      }
-    },
-
-    "wednesday": {
-      "daily": {
-        "timeSpentJIRA": "15m",
-        "comment": "Daily",
-        "startTime": "11h 30m"
       },
       "grooming": {
         "timeSpentJIRA": "1h",
         "comment": "Grooming",
-        "startTime": "14h"
-      },
-      "dev": {
-        "timeSpentJIRA": "4h 30m",
-        "comment": "Creatives development and sync",
-        "startTime": "7h"
-      },
-      "dev": {
-        "timeSpentJIRA": "1h 15m",
-        "comment": "Creatives development and sync",
-        "startTime": "12h 45m"
+        "startTime": "15h"
       },
       "dev": {
         "timeSpentJIRA": "2h",
         "comment": "Creatives development and sync",
-        "startTime": "15h"
+        "startTime": "16h"
       }
     },
 
