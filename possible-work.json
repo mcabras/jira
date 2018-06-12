@@ -2,7 +2,7 @@
   "daily": {
     "comment": "",
     "timeSpentJIRA": "",
-    "issue": "PTSR-14",
+    "issue": "PTSR-23",
     "project": "",
     "startDate": "",
     "tfstask": ""
@@ -11,7 +11,7 @@
   "retro": {
     "comment": "",
     "timeSpentJIRA": "",
-    "issue": "PTSR-17",
+    "issue": "PTSR-23",
     "project": "",
     "startDate": "",
     "tfstask": ""
@@ -20,7 +20,7 @@
   "sprint review": {
     "comment": "",
     "timeSpentJIRA": "",
-    "issue": "PTSR-15",
+    "issue": "PTSR-23",
     "project": "",
     "startDate": "",
     "tfstask": ""
@@ -29,7 +29,7 @@
   "planning": {
     "comment": "",
     "timeSpentJIRA": "",
-    "issue": "PTSR-6",
+    "issue": "PTSR-23",
     "project": "",
     "startDate": "",
     "tfstask": ""
@@ -52,7 +52,7 @@
     "startDate": "",
     "tfstask": ""
   },
-  
+
   "dev": {
     "comment": "",
     "timeSpentJIRA": "",
