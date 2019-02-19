@@ -76,6 +76,7 @@ const getIssues = () => {
           possibleWork[issue].startDate = currentDate.setHours(13, 0);
         }
         possibleWork[issue].project = jiraToReport.project;
+        possibleWork[issue].place = jiraToReport.place;
         issues.push(possibleWork[issue]);
       }
     }
