@@ -5,7 +5,8 @@
     "issue": "PTSR-23",
     "project": "",
     "startDate": "",
-    "tfstask": ""
+    "tfstask": "",
+    "place": ""
   },
 
   "retro": {
@@ -14,7 +15,8 @@
     "issue": "PTSR-23",
     "project": "",
     "startDate": "",
-    "tfstask": ""
+    "tfstask": "",
+    "place": ""
   },
 
   "sprint review": {
@@ -23,7 +25,8 @@
     "issue": "PTSR-23",
     "project": "",
     "startDate": "",
-    "tfstask": ""
+    "tfstask": "",
+    "place": ""
   },
 
   "planning": {
@@ -32,7 +35,8 @@
     "issue": "PTSR-23",
     "project": "",
     "startDate": "",
-    "tfstask": ""
+    "tfstask": "",
+    "place": ""
   },
 
   "grooming": {
@@ -41,7 +45,8 @@
     "issue": "PTSR-3",
     "project": "",
     "startDate": "",
-    "tfstask": ""
+    "tfstask": "",
+    "place": ""
   },
 
   "testing": {
@@ -50,7 +55,8 @@
     "issue": "PTSR-5",
     "project": "",
     "startDate": "",
-    "tfstask": ""
+    "tfstask": "",
+    "place": ""
   },
 
   "dev": {
@@ -59,6 +65,7 @@
     "issue": "PTSR-4",
     "project": "",
     "startDate": "",
-    "tfstask": ""
+    "tfstask": "",
+    "place": ""
   }
 }
